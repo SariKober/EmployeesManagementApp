@@ -1,0 +1,150 @@
+$main-color: #168d83;
+table {
+	width: 100%;
+}
+
+th.mat-sort-header-sorted {
+	color: black;
+}
+.mat-form-field-wrapper {
+	border: 1px solid #ccc;
+	border-radius: 30px;
+	display: flex;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 4px;
+	width: 20%;
+	align-items: center;
+	margin-top: 3%;
+	height: 25px;
+}
+.custom-fab-button {
+	background-color: $main-color; /* שינוי צבע הרקע */
+	color: white; /* שינוי צבע הטקסט */
+	font-size: 20px; /* שינוי גודל הפונט */
+	padding: 10px; /* הוספת מרווח מסביב לתוכן */
+	border-radius: 50%; /* יישום עיגול לכפתור */
+}
+
+.mat-form-field-wrapper input {
+	flex: 1;
+	border: none;
+	align-items: center;
+	outline: none;
+}
+.example-button-container {
+	margin-top: 15px;
+	display: flex;
+	justify-content: center;
+	width: 120px;
+	flex-wrap: wrap;
+	height: 10px;
+}
+
+.toolBarContainer {
+	background-color: #fff;
+	z-index: 1000; /* ערך ארביטרארי */
+	display: flex;
+	justify-content: space-evenly;
+	height: 110px;
+	box-shadow: 0px 2prgb (160, 64, 64) x rgba(0, 0, 0, 0.1); /* הוספת צל לתיבה */
+}
+body {
+	padding-top: 70px;
+}
+p {
+	margin-top: 10px;
+	direction: rtl;
+}
+.mat-cell {
+	text-align: center;
+	color: #666;
+	font-size: 16px;
+	line-height: 1.5; /* גובה שורה */
+	font-style: italic;
+}
+.text-button {
+	/* קוד עיצוב הכפתור שלך */
+	background: none;
+	border: none;
+	padding: 0;
+	margin: 0;
+	font-size: inherit;
+	font-family: inherit;
+	cursor: pointer;
+	outline: none;
+	position: relative; /* מיקום יחסי לצורך הקו התחתון */
+}
+
+.text-button::after {
+	content: ''; /* הקו התחתון */
+	position: absolute;
+	bottom: -2px; /* מרווח מתחת לטקסט */
+	left: 0;
+	width: 100%;
+	height: 2px; /* גובה הקו */
+	background-color: transparent; /* צבע הקו */
+	transition: background-color 0.3s ease; /* אנימציה שמשנה את צבע הקו */
+}
+
+.text-button:hover::after {
+	background-color: $main-color; /* צבע הקו במעבר העכבר */
+}
+.wrap-table {
+	display: flex;
+	justify-content: center;
+	margin: auto 20px;
+	max-width: 100%; /* רוחב מוגדר */
+	height: 600px; /* גובה מוגדר */
+	overflow-x: auto; /* אפשר לגלול אופקית כאשר התוכן חורג מהמימדים שנקבעו */
+	&::-webkit-scrollbar {
+	}
+	.container {
+		display: flex;
+		justify-content: center; /* להציג את האלמנטים באמצע הדף */
+		align-items: center; /* ליישר את האלמנטים באמצע גם אופקית וגם אנכית */
+		// height: 100vh; /* למלא את גובה המסך */
+	}
+
+	.center-content {
+		margin-top: 130px;
+		text-align: center; /* ליישר את תוכן האלמנטים באמצע */
+	}
+	.loading-spinner {
+		border: 4px solid rgba(0, 0, 0, 0.1);
+		border-left: 4px solid $main-color;
+		border-radius: 50%;
+		width: 50px;
+		height: 50px;
+		animation: spin 1s linear infinite;
+	}
+
+	@keyframes spin {
+		0% {
+			transform: rotate(0deg);
+		}
+		100% {
+			transform: rotate(360deg);
+		}
+	}
+}
+th {
+	background-color: #f0f0f0; /* צבע רקע */
+	color: #333; /* צבע טקסט */
+	font-weight: bold; /* טקסט מודגש */
+	border-bottom: 2px solid #ccc; /* קו תחתון */
+}
+.top-img {
+	margin-top: 100px;
+	height: 250px;
+	width: 100%;
+}
+
+th {
+	position: sticky;
+	top: 0;
+	background-color: #fff;
+	z-index: 1;
+	width: 200px; /* רוחב קבוע לעמודות */
+	white-space: nowrap; /* מניעת סיבוב לתוך שורות חדשות */
+}

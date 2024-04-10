@@ -1,0 +1,34 @@
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.deps.json
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.runtimeconfig.json
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Core.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Core.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.AssemblyInfo.cs
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectS.8BF5A946.Up2Date
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\refint\ProjectServer.Data.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.genruntimeconfig.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ref\ProjectServer.Data.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.deps.json
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.runtimeconfig.json
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Core.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Core.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.AssemblyInfo.cs
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectS.8BF5A946.Up2Date
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\refint\ProjectServer.Data.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.genruntimeconfig.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ref\ProjectServer.Data.dll

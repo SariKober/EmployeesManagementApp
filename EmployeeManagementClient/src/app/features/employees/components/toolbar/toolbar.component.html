@@ -1,0 +1,33 @@
+<div class="toolBarContainer">
+	<div class="example-button-container">
+		<button
+			class="custom-fab-button"
+			mat-fab
+			aria-label="Example icon button with a file_download icon"
+			(click)="exportToExcel()"
+		>
+			<mat-icon>file_download</mat-icon>
+		</button>
+		<p>הורדה ל-excel</p>
+	</div>
+	<div class="mat-form-field-wrapper">
+		<mat-icon class="mat-icon">search</mat-icon>
+		<input
+			class="mat-input"
+			(keyup)="applyFilter($event?.target['value'])"
+			placeholder="סינון"
+		/>
+	</div>
+
+	<div class="example-button-container">
+		<button
+			mat-fab
+			class="custom-fab-button"
+			aria-label="Example icon button with a delete icon"
+			(click)="addEmployee()"
+		>
+			<mat-icon>add</mat-icon>
+		</button>
+		<p>הוספת עובד</p>
+	</div>
+</div>

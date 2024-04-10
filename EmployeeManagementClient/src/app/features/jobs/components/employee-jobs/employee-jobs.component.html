@@ -1,0 +1,125 @@
+<div class="container">
+	<div class="center-content">
+		<img class="top-img" src="../../../../assets/images/jobs.jpg" />
+		<div class="name-container">
+			<div>{{ this.employee?.firstName }}</div>
+			<div>{{ this.employee?.lastName }}</div>
+			<div>{{ this.employee?.id }}</div>
+		</div>
+		<div class="toolBarContainer">
+			<div class="example-button-container">
+				<button
+					class="custom-fab-button"
+					mat-fab
+					(click)="exportToExcel()"
+					aria-label="Example icon button with a file_download icon"
+				>
+	
+					<mat-icon>file_download</mat-icon>
+				</button>
+				<p>הורדה ל-excel</p>
+			</div>
+			<div class="mat-form-field-wrapper">
+				<mat-icon class="mat-icon">search</mat-icon>
+				<input
+					class="mat-input"
+					(keyup)="applyFilter($event)"
+					placeholder="סינון"
+				/>
+			</div>
+			<div class="example-button-container">
+				<button
+					mat-fab
+					class="custom-fab-button"
+					aria-label="Example icon button with a delete icon"
+					(click)="openAddJobEmployeeDialog(this.employeeCode)"
+				>
+					<mat-icon>add</mat-icon>
+				</button>
+				<p>הוספת משרה לעובד</p>
+			</div>
+		</div>
+	</div>
+	<div class="wrap-table">
+		<ng-container *ngIf="loadingData; else dataLoaded">
+			<!-- כאן נכניס את האנימציה של נטען -->
+			<div class="loading-spinner"></div>
+		</ng-container>
+		<ng-template #dataLoaded>
+			<table
+				mat-table
+				[dataSource]="dataSource"
+				matSort
+				(matSortChange)="announceSortChange($event)"
+				class="mat-elevation-z8"
+			>
+				<ng-container matColumnDef="delete">
+					<th mat-header-cell *matHeaderCellDef>מחיקה</th>
+					<td mat-cell *matCellDef="let element">
+						<button (click)="deleteJob(element)" mat-icon-button>
+							<mat-icon>delete</mat-icon>
+						</button>
+					</td>
+				</ng-container>
+				<ng-container matColumnDef="edit">
+					<th mat-header-cell *matHeaderCellDef>עריכה</th>
+					<td mat-cell *matCellDef="let element">
+						<button
+							mat-icon-button
+							(click)="openEditJobEmployeeDialog(element)"
+						>
+							<mat-icon>edit</mat-icon>
+						</button>
+					</td>
+				</ng-container>
+				<ng-container matColumnDef="dateOfEntry">
+					<th
+						mat-header-cell
+						*matHeaderCellDef
+						mat-sort-header
+						sortActionDescription="Sort by dateOfEntry"
+					>
+						תאריך כניסה לתפקיד
+					</th>
+					<td mat-cell *matCellDef="let element">
+						{{ element.dateOfEntry | date: 'd/M/yy' : 'UTC+6' }}
+					</td>
+				</ng-container>
+
+				<ng-container matColumnDef="isAdmin">
+					<th
+						mat-header-cell
+						*matHeaderCellDef
+						mat-sort-header
+						sortActionDescription="Sort by isAdmin"
+					>
+						ניהול
+					</th>
+					<td mat-cell *matCellDef="let element">{{ element.isAdmin }}</td>
+				</ng-container>
+				<ng-container matColumnDef="jobName">
+					<th
+						mat-header-cell
+						*matHeaderCellDef
+						mat-sort-header
+						sortActionDescription="Sort by jobName"
+					>
+						שם תפקיד
+					</th>
+					<td mat-cell *matCellDef="let element">{{ element.role.name }}</td>
+				</ng-container>
+
+				<ng-container *matNoDataRow>
+					<tr>
+						<td class="mat-cell" [attr.colspan]="displayedColumns.length">
+							אין נתונים להצגה
+						</td>
+					</tr>
+				</ng-container>
+
+				<tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+				<tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+			</table>
+		</ng-template>
+	</div>
+</div>

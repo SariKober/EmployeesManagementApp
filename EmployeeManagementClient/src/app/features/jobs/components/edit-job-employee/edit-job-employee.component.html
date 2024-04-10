@@ -1,0 +1,58 @@
+<div class="container">
+		<h3 class="title">עריכת פרטי משרה</h3>
+		<form
+			[formGroup]="employeeJobForm"
+			(ngSubmit)="updateJobEmployee()"
+			class="example-form"
+		>
+		<div class="form-container">
+			<mat-form-field class="example-full-width" appearance="fill">
+				<mat-label>תאריך כניסה למשרה</mat-label>
+				<input
+					matInput
+					[matDatepicker]="picker1"
+					formControlName="dateOfEntry"
+				/>
+				<mat-hint>MM/DD/YYYY</mat-hint>
+				<mat-datepicker-toggle matIconSuffix [for]="picker1">
+					<mat-icon matDatepickerToggleIcon>keyboard_arrow_down</mat-icon>
+				</mat-datepicker-toggle>
+				<mat-datepicker #picker1></mat-datepicker>
+				<mat-error *ngIf="employeeJobForm.get('dateOfEntry').errors?.['required']">
+					תאריך כניסה למשרה הוא שדה חובה.
+				</mat-error>
+				<mat-error
+					*ngIf="
+						employee &&
+						employeeJobForm.get('dateOfEntry')?.invalid &&
+						employeeJobForm.get('dateOfEntry')?.touched
+					"
+				>
+					תאריך הכניסה חייב להיות אחרי תאריך הכניסה לעבודה ({{
+						employee.startOfWorkDate | date: 'dd/MM/yyyy'
+					}}).
+				</mat-error>
+			</mat-form-field>
+
+			<mat-form-field appearance="fill">
+				<mat-label>האם המשרה ניהולית</mat-label>
+				<mat-select formControlName="isAdmin">
+					<mat-option [value]="true">כן</mat-option>
+					<mat-option [value]="false">לא</mat-option>
+				</mat-select>
+				<mat-error *ngIf="employeeJobForm.get('isAdmin').errors?.['required']">
+					האם המשרה ניהולית הוא שדה חובה.
+				</mat-error>
+			</mat-form-field>
+</div>
+			<button mat-raised-button class="save-button" type="submit">שמור</button>
+		</form>
+		<button
+		mat-icon-button
+		class="back-button"
+		(click)="closeDialog()"
+		aria-label="Close dialog"
+	>
+		<mat-icon>arrow_back</mat-icon>
+	</button>
+	</div>

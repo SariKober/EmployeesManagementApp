@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:400i');
+$main-color: #04534c;
+.mat-toolbar {
+	background-color: #ffffff;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	height: 7vw;
+	position: fixed;
+	top: 0%;
+	z-index: 2000;
+}
+
+
+.example-icon {
+	color: $main-color;
+}
+
+
+.mat-toolbar a mat-icon {
+	color: $main-color;
+}
+img {
+	position: fixed;
+	top: 0.2%;
+	right: 4vw;
+	z-index: 30000;
+}
+.custom-fab-button {
+	background-color: $main-color; /* שינוי צבע הרקע */
+	color: white; /* שינוי צבע הטקסט */
+	font-size: 20px; /* שינוי גודל הפונט */
+	padding: 10px; /* הוספת מרווח מסביב לתוכן */
+	border-radius: 50%; /* יישום עיגול לכפתור */
+}

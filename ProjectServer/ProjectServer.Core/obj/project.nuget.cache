@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "11kZh8l/MYAjbkmETU7aesICr/bA9jmQHWSsNPcIlTHOkWgxr/Z6sP1/G2dYrOCaENmtFnle+1ayRmxTJWMo/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\ProjectServer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\The user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,63 @@
+$main-color: #168d83;
+table {
+	width: 100%;
+}
+
+th.mat-sort-header-sorted {
+	color: black;
+}
+body {
+	padding-top: 70px;
+}
+p {
+	margin-top: 10px;
+	direction: rtl;
+}
+.mat-cell {
+	text-align: center;
+	color: #666;
+	font-size: 16px;
+	line-height: 1.5; /* גובה שורה */
+	font-style: italic;
+}
+.text-button {
+	/* קוד עיצוב הכפתור שלך */
+	background: none;
+	border: none;
+	padding: 0;
+	margin: 0;
+	font-size: inherit;
+	font-family: inherit;
+	cursor: pointer;
+	outline: none;
+	position: relative; /* מיקום יחסי לצורך הקו התחתון */
+}
+
+.text-button::after {
+	content: ''; /* הקו התחתון */
+	position: absolute;
+	bottom: -2px; /* מרווח מתחת לטקסט */
+	left: 0;
+	width: 100%;
+	height: 2px; /* גובה הקו */
+	background-color: transparent; /* צבע הקו */
+	transition: background-color 0.3s ease; /* אנימציה שמשנה את צבע הקו */
+}
+
+.text-button:hover::after {
+	background-color: $main-color; /* צבע הקו במעבר העכבר */
+}
+
+
+th {
+	background-color: #f0f0f0; /* צבע רקע */
+	color: #333; /* צבע טקסט */
+	font-weight: bold; /* טקסט מודגש */
+	border-bottom: 2px solid #ccc; /* קו תחתון */
+	position: sticky;
+	top: 0;
+	z-index: 1;
+	width: 200px; /* רוחב קבוע לעמודות */
+	white-space: nowrap; /* מניעת סיבוב לתוך שורות חדשות */
+}
+

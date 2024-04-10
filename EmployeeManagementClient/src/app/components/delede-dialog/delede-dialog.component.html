@@ -1,0 +1,12 @@
+<div class="container">
+	<h2 mat-dialog-title>מחיקה</h2>
+	<mat-dialog-content>
+		האם אתה בטוח שברצונך להסיר את {{ data }}?
+	</mat-dialog-content>
+	<mat-dialog-actions>
+		<button mat-button mat-dialog-close>ביטול</button>
+		<button mat-button mat-dialog-close cdkFocusInitial (click)="onOkClick()">
+			אישור
+		</button>
+	</mat-dialog-actions>
+</div>

@@ -1,0 +1,13 @@
+<div class="container">
+	<div class="center-content">
+		<img
+			class="top-img"
+			src="https://www.michpalyeda.co.il/wp-content/uploads/2023/12/%D7%92%D7%99%D7%95%D7%A1-%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D.png"
+		/>
+		<app-toolbar></app-toolbar>
+		<div   class="wrap-table">
+		<div *ngIf="showLoader" class="loading-spinner"></div>
+      <app-table [hidden]="showLoader"    [employees]="employees"></app-table> 
+		</div>
+	</div>
+</div>

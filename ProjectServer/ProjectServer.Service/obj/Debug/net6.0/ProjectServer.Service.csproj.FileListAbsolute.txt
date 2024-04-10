@@ -1,0 +1,30 @@
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\bin\Debug\net6.0\ProjectServer.Service.deps.json
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\bin\Debug\net6.0\ProjectServer.Service.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\bin\Debug\net6.0\ProjectServer.Service.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.AssemblyInfo.cs
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\refint\ProjectServer.Service.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ref\ProjectServer.Service.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\bin\Debug\net6.0\ProjectServer.Core.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\bin\Debug\net6.0\ProjectServer.Core.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectS.DF1103F2.Up2Date
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\bin\Debug\net6.0\ProjectServer.Service.deps.json
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\bin\Debug\net6.0\ProjectServer.Service.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\bin\Debug\net6.0\ProjectServer.Service.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\bin\Debug\net6.0\ProjectServer.Core.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\bin\Debug\net6.0\ProjectServer.Core.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.AssemblyInfo.cs
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectS.DF1103F2.Up2Date
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\refint\ProjectServer.Service.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ProjectServer.Service.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Service\obj\Debug\net6.0\ref\ProjectServer.Service.dll

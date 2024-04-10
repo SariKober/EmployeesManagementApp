@@ -1,0 +1,142 @@
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.AssemblyInfo.cs
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.API.exe
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.API.deps.json
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.API.runtimeconfig.json
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.API.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.API.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Core.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Data.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Service.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Core.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Data.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Service.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\scopedcss\bundle\ProjectServer.API.styles.css
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectS.8483326A.Up2Date
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\refint\ProjectServer.API.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.pdb
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.genruntimeconfig.cache
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ref\ProjectServer.API.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\The user\Desktop\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.API.exe
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.API.deps.json
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.API.runtimeconfig.json
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.API.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.API.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Core.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Data.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Service.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Core.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Data.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\bin\Debug\net6.0\ProjectServer.Service.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.AssemblyInfo.cs
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\scopedcss\bundle\ProjectServer.API.styles.css
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectS.8483326A.Up2Date
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\refint\ProjectServer.API.dll
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.pdb
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ProjectServer.API.genruntimeconfig.cache
+C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.API\obj\Debug\net6.0\ref\ProjectServer.API.dll

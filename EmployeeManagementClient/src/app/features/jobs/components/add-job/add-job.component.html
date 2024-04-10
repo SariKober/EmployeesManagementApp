@@ -1,0 +1,16 @@
+<div class="container">
+	<p class="title">הוספת משרה</p>
+	<form [formGroup]="jobNameForm" (ngSubmit)="onSubmit()">
+		<mat-form-field appearance="fill">
+			<mat-label>שם תפקיד</mat-label>
+			<input matInput formControlName="jobName" />
+			<mat-error *ngIf="jobNameForm.get('jobName').errors?.['required']">
+				שם תפקיד הוא שדה חובה.
+			</mat-error>
+			<mat-error *ngIf="jobNameForm.get('jobName').errors?.['minlength']">
+				שם תפקיד חייב להכיל לפחות שני תווים.
+			</mat-error>
+		</mat-form-field>
+		<button mat-raised-button type="submit">שלח</button>
+	</form>
+</div>

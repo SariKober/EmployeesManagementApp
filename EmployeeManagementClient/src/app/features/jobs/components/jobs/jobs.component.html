@@ -1,0 +1,19 @@
+<div class="container">
+	<div class="example-button-container">
+		<button
+			mat-fab
+			class="custom-fab-button"
+			aria-label="Example icon button with a delete icon"
+			(click)="toAddJob()"
+		>
+			<mat-icon>add</mat-icon>
+		</button>
+		<p>הוספת משרה</p>
+	</div>
+	<mat-list>
+		<mat-list-item *ngFor="let job of jobs" class="custom-list-item">
+			<span class="names">{{ job.name }}</span>
+		</mat-list-item>
+	</mat-list>
+	<img class="add-img" src="../../../../assets/images/addJob.jpg" />
+</div>

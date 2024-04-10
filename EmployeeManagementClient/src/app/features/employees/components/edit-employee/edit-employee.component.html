@@ -1,0 +1,105 @@
+<div class="container">
+	<h2 class="title">עריכת פרטי עובד</h2>
+	<form
+		[formGroup]="employeeForm"
+		(ngSubmit)="updateEmployee()"
+		class="example-form"
+	>
+		<div class="form-container">
+			<mat-form-field appearance="fill">
+				<mat-label>שם פרטי</mat-label>
+				<input matInput formControlName="firstName" />
+				<mat-error *ngIf="employeeForm.get('firstName').errors?.['required']">
+					שם פרטי הוא שדה חובה.
+				</mat-error>
+				<mat-error *ngIf="employeeForm.get('firstName').errors?.['minlength']">
+					שם פרטי חייב להכיל לפחות שני תווים.
+				</mat-error>
+			</mat-form-field>
+
+			<mat-form-field appearance="fill">
+				<mat-label>שם משפחה</mat-label>
+				<input matInput formControlName="lastName" />
+				<mat-error *ngIf="employeeForm.get('lastName').errors?.['required']">
+					שם משפחה הוא שדה חובה.
+				</mat-error>
+				<mat-error *ngIf="employeeForm.get('lastName').errors?.['minlength']">
+					שם משפחה חייב להכיל לפחות שני תווים.
+				</mat-error>
+			</mat-form-field>
+
+			<mat-form-field appearance="fill">
+				<mat-label>תעודת זהות</mat-label>
+				<input matInput formControlName="id" />
+				<mat-error *ngIf="employeeForm.get('id').errors?.['required']">
+					תעודת הזהות היא שדה חובה.
+				</mat-error>
+				<mat-error *ngIf="employeeForm.get('id').errors?.['pattern']">
+					תעודת הזהות חייבת להכיל לפחות 8 תווים מספריים ולא יותר מ-9.
+				</mat-error>
+			</mat-form-field>
+
+			<mat-form-field class="example-full-width" appearance="fill">
+				<mat-label>תאריך תחילת עבודה</mat-label>
+				<input
+					matInput
+					[matDatepicker]="picker1"
+					formControlName="startOfWorkDate"
+				/>
+				<mat-hint>MM/DD/YYYY</mat-hint>
+				<mat-datepicker-toggle matIconSuffix [for]="picker1">
+					<mat-icon matDatepickerToggleIcon>keyboard_arrow_down</mat-icon>
+				</mat-datepicker-toggle>
+				<mat-datepicker #picker1></mat-datepicker>
+				<mat-error
+					*ngIf="employeeForm.get('startOfWorkDate').errors?.['required']"
+				>
+					תאריך כניסה לעבודה הוא שדה חובה.
+				</mat-error>
+			</mat-form-field>
+
+			<mat-form-field class="example-full-width" appearance="fill">
+				<mat-label>תאריך לידה</mat-label>
+				<input
+					matInput
+					[matDatepicker]="picker2"
+					formControlName="dateOfBirth"
+				/>
+				<mat-hint>MM/DD/YYYY</mat-hint>
+				<mat-datepicker-toggle matIconSuffix [for]="picker2">
+					<mat-icon matDatepickerToggleIcon>keyboard_arrow_down</mat-icon>
+				</mat-datepicker-toggle>
+				<mat-datepicker #picker2></mat-datepicker>
+				<mat-error *ngIf="employeeForm.get('dateOfBirth').errors?.['required']">
+					תאריך הלידה הוא שדה חובה.
+				</mat-error>
+				<mat-error
+					*ngIf="employeeForm.get('dateOfBirth').errors?.['minimumAge']"
+				>
+					גיל המינימלי עבור עובד הוא 18 שנה.
+				</mat-error>
+			</mat-form-field>
+
+			<mat-form-field appearance="fill">
+				<mat-label>מין</mat-label>
+				<mat-select formControlName="gender">
+					<mat-option [value]="1">זכר</mat-option>
+					<mat-option [value]="2">נקבה</mat-option>
+				</mat-select>
+				<mat-error *ngIf="employeeForm.get('gender').errors?.['required']">
+					מין הוא שדה חובה.
+				</mat-error>
+			</mat-form-field>
+			<button mat-raised-button class="save-button" type="submit">שמור</button>
+		</div>
+	</form>
+
+	<button
+		mat-icon-button
+		class="back-button"
+		(click)="closeDialog()"
+		aria-label="Close dialog"
+	>
+		<mat-icon>arrow_back</mat-icon>
+	</button>
+</div>

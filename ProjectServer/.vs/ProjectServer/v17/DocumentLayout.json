@@ -1,0 +1,652 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88DFF7AF-F793-4C2B-BF22-554BEE6267A4}|ProjectServer.Service\\ProjectServer.Service.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DFF7AF-F793-4C2B-BF22-554BEE6267A4}|ProjectServer.Service\\ProjectServer.Service.csproj|solutionrelative:projectserver.service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DFF7AF-F793-4C2B-BF22-554BEE6267A4}|ProjectServer.Service\\ProjectServer.Service.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.service\\roleemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DFF7AF-F793-4C2B-BF22-554BEE6267A4}|ProjectServer.Service\\ProjectServer.Service.csproj|solutionrelative:projectserver.service\\roleemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DFF7AF-F793-4C2B-BF22-554BEE6267A4}|ProjectServer.Service\\ProjectServer.Service.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DFF7AF-F793-4C2B-BF22-554BEE6267A4}|ProjectServer.Service\\ProjectServer.Service.csproj|solutionrelative:projectserver.service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DFF7AF-F793-4C2B-BF22-554BEE6267A4}|ProjectServer.Service\\ProjectServer.Service.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.service\\projectserver.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88DFF7AF-F793-4C2B-BF22-554BEE6267A4}|ProjectServer.Service\\ProjectServer.Service.csproj|solutionrelative:projectserver.service\\projectserver.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|solutionrelative:projectserver.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.data\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|solutionrelative:projectserver.data\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.data\\repositories\\roleemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|solutionrelative:projectserver.data\\repositories\\roleemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|solutionrelative:projectserver.data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\services\\iroleemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\services\\iroleemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\repositories\\iroleemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\repositories\\iroleemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\models\\roleemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\models\\roleemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\dtos\\roleemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\dtos\\roleemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.core\\projectserver.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E0EF105-DB76-4F23-AEDE-B226537AC491}|ProjectServer.Core\\ProjectServer.Core.csproj|solutionrelative:projectserver.core\\projectserver.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.data\\projectserver.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|solutionrelative:projectserver.data\\projectserver.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|solutionrelative:projectserver.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|solutionrelative:projectserver.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.api\\models\\rolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|solutionrelative:projectserver.api\\models\\rolepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.api\\models\\roleemployeepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|solutionrelative:projectserver.api\\models\\roleemployeepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.api\\models\\employeepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|solutionrelative:projectserver.api\\models\\employeepostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.api\\mapping\\postmodelsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|solutionrelative:projectserver.api\\mapping\\postmodelsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|solutionrelative:projectserver.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.api\\controllers\\roleemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|solutionrelative:projectserver.api\\controllers\\roleemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2847C785-DF4E-4FB8-96FA-320F9A7BA216}|ProjectServer.API\\ProjectServer.API.csproj|solutionrelative:projectserver.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/workers_db/True/SqlTable/dbo.RoleEmployees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/workers_db/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/workers_db/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.data\\projectserver.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|solutionrelative:projectserver.data\\projectserver.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.data\\migrations\\20240402140950_add-role-employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|solutionrelative:projectserver.data\\migrations\\20240402140950_add-role-employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|c:\\users\\the user\\desktop\\workers managementapp\\projectserver\\projectserver.data\\migrations\\20240401101112_addstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FEE4A-665A-47D2-9BB7-9ACD2BF1F7B1}|ProjectServer.Data\\ProjectServer.Data.csproj|solutionrelative:projectserver.data\\migrations\\20240401101112_addstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Data\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "ProjectServer.Data\\Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:28:54.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\DataContext.cs",
+              "RelativeToolTip": "ProjectServer.Data\\DataContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:48:57.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectServer.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Service\\ProjectServer.Service.csproj",
+              "RelativeDocumentMoniker": "ProjectServer.Service\\ProjectServer.Service.csproj",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Service\\ProjectServer.Service.csproj",
+              "RelativeToolTip": "ProjectServer.Service\\ProjectServer.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T18:32:27.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Service\\EmployeeService.cs",
+              "RelativeToolTip": "ProjectServer.Service\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:54:23.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Service\\RoleEmployeeService.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Service\\RoleEmployeeService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Service\\RoleEmployeeService.cs",
+              "RelativeToolTip": "ProjectServer.Service\\RoleEmployeeService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:54:30.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Service\\RoleService.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Service\\RoleService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Service\\RoleService.cs",
+              "RelativeToolTip": "ProjectServer.Service\\RoleService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:08:04.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\Repositories\\RoleEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Data\\Repositories\\RoleEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\Repositories\\RoleEmployeeRepository.cs",
+              "RelativeToolTip": "ProjectServer.Data\\Repositories\\RoleEmployeeRepository.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwBIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:39:42.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Data\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "ProjectServer.Data\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:03:01.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Services\\IRoleService.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\Services\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Services\\IRoleService.cs",
+              "RelativeToolTip": "ProjectServer.Core\\Services\\IRoleService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAvwAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:26:42.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRoleEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Services\\IRoleEmployeeService.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\Services\\IRoleEmployeeService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Services\\IRoleEmployeeService.cs",
+              "RelativeToolTip": "ProjectServer.Core\\Services\\IRoleEmployeeService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:52:18.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "ProjectServer.Core\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:26:25.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Repositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Repositories\\IRoleRepository.cs",
+              "RelativeToolTip": "ProjectServer.Core\\Repositories\\IRoleRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:25:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRoleEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Repositories\\IRoleEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\Repositories\\IRoleEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Repositories\\IRoleEmployeeRepository.cs",
+              "RelativeToolTip": "ProjectServer.Core\\Repositories\\IRoleEmployeeRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:05:10.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "ProjectServer.Core\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:25:01.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Models\\Role.cs",
+              "RelativeToolTip": "ProjectServer.Core\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:18:33.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoleEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Models\\RoleEmployee.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\Models\\RoleEmployee.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Models\\RoleEmployee.cs",
+              "RelativeToolTip": "ProjectServer.Core\\Models\\RoleEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:41:08.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Models\\Employee.cs",
+              "RelativeToolTip": "ProjectServer.Core\\Models\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:31:13.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "ProjectServer.Core\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:32:32.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\DTOs\\RoleEmployeeDto.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\DTOs\\RoleEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\DTOs\\RoleEmployeeDto.cs",
+              "RelativeToolTip": "ProjectServer.Core\\DTOs\\RoleEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:01:58.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\DTOs\\RoleDto.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\DTOs\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\DTOs\\RoleDto.cs",
+              "RelativeToolTip": "ProjectServer.Core\\DTOs\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:12:51.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "ProjectServer.Core\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:38:02.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjectServer.Core",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\ProjectServer.Core.csproj",
+              "RelativeDocumentMoniker": "ProjectServer.Core\\ProjectServer.Core.csproj",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\ProjectServer.Core.csproj",
+              "RelativeToolTip": "ProjectServer.Core\\ProjectServer.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T22:01:20.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjectServer.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\ProjectServer.Data.csproj",
+              "RelativeDocumentMoniker": "ProjectServer.Data\\ProjectServer.Data.csproj",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\ProjectServer.Data.csproj",
+              "RelativeToolTip": "ProjectServer.Data\\ProjectServer.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T22:49:50.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectServer.API\\Program.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Program.cs",
+              "RelativeToolTip": "ProjectServer.API\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:28:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectServer.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\appsettings.json",
+              "RelativeToolTip": "ProjectServer.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T18:47:35.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RolePostModel.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Models\\RolePostModel.cs",
+              "RelativeDocumentMoniker": "ProjectServer.API\\Models\\RolePostModel.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Models\\RolePostModel.cs",
+              "RelativeToolTip": "ProjectServer.API\\Models\\RolePostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:49:22.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleEmployeePostModel.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Models\\RoleEmployeePostModel.cs",
+              "RelativeDocumentMoniker": "ProjectServer.API\\Models\\RoleEmployeePostModel.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Models\\RoleEmployeePostModel.cs",
+              "RelativeToolTip": "ProjectServer.API\\Models\\RoleEmployeePostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:49:36.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeePostModel.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Models\\EmployeePostModel.cs",
+              "RelativeDocumentMoniker": "ProjectServer.API\\Models\\EmployeePostModel.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Models\\EmployeePostModel.cs",
+              "RelativeToolTip": "ProjectServer.API\\Models\\EmployeePostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T22:00:40.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PostModelsMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Mapping\\PostModelsMappingProfile.cs",
+              "RelativeDocumentMoniker": "ProjectServer.API\\Mapping\\PostModelsMappingProfile.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Mapping\\PostModelsMappingProfile.cs",
+              "RelativeToolTip": "ProjectServer.API\\Mapping\\PostModelsMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:32:10.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "ProjectServer.API\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "ProjectServer.API\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:11:25.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ProjectServer.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ProjectServer.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:12:27.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoleEmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Controllers\\RoleEmployeeController.cs",
+              "RelativeDocumentMoniker": "ProjectServer.API\\Controllers\\RoleEmployeeController.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.API\\Controllers\\RoleEmployeeController.cs",
+              "RelativeToolTip": "ProjectServer.API\\Controllers\\RoleEmployeeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:11:50.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.RoleEmployees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/workers_db/True/SqlTable/dbo.RoleEmployees.sql",
+              "ToolTip": "dbo.RoleEmployees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-22T00:12:21.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/workers_db/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-21T17:26:13.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240402140950_add-role-employee.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\Migrations\\20240402140950_add-role-employee.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Data\\Migrations\\20240402140950_add-role-employee.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\Migrations\\20240402140950_add-role-employee.cs",
+              "RelativeToolTip": "ProjectServer.Data\\Migrations\\20240402140950_add-role-employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:09:50.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240401101112_addStatus.cs",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\Migrations\\20240401101112_addStatus.cs",
+              "RelativeDocumentMoniker": "ProjectServer.Data\\Migrations\\20240401101112_addStatus.cs",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\Migrations\\20240401101112_addStatus.cs",
+              "RelativeToolTip": "ProjectServer.Data\\Migrations\\20240401101112_addStatus.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:11:12.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "dbo.Roles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__mssqllocaldb/workers_db/True/SqlTable/dbo.Roles.sql",
+              "ToolTip": "dbo.Roles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-22T00:12:54.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProjectServer.Data",
+              "DocumentMoniker": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\ProjectServer.Data.csproj",
+              "RelativeDocumentMoniker": "ProjectServer.Data\\ProjectServer.Data.csproj",
+              "ToolTip": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\ProjectServer.Data.csproj",
+              "RelativeToolTip": "ProjectServer.Data\\ProjectServer.Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T21:14:52.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

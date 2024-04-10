@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+	overflow-x: hidden;
+}
+
+.footer {
+	background: #544f4f;
+	padding: 30px 0px;
+	font-family: 'Play', sans-serif;
+	text-align: center;
+}
+
+.footer .row {
+	width: 100%;
+	margin: 1% 0%;
+	padding: 0.6% 0%;
+	color: gray;
+	font-size: 1em;
+}
+
+.footer .row a {
+	text-decoration: none;
+	color: gray;
+	transition: 0.5s;
+}
+
+@media (max-width: 720px) {
+	.footer {
+		text-align: left;
+		padding: 5%;
+	}
+}

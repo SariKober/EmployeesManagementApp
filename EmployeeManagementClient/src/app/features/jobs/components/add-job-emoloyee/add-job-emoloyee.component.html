@@ -1,0 +1,73 @@
+<div class="container">
+	<h2 class="title">הוספת משרה לעובד</h2>
+	<form
+		[formGroup]="jobForm"
+		(ngSubmit)="addJobEmoloyee()"
+		class="example-form"
+	>
+	<div class="form-container">
+		<mat-form-field appearance="fill">
+			<mat-label>משרה</mat-label>
+			<mat-select formControlName="roleId">
+				<!-- בדיקה אם הרשימה ריקה -->
+				<ng-container *ngIf="jobs?.length > 0; else noJobsAvailable">
+					<!-- אם הרשימה לא ריקה, הצג את האפשרויות -->
+					<mat-option *ngFor="let job of jobs" [value]="job.id">
+						{{ job.name }}
+					</mat-option>
+				</ng-container>
+				<!-- אם הרשימה ריקה, הצג הודעת 'אין משרות זמינות' -->
+				<ng-template #noJobsAvailable>
+					<mat-option disabled>אין משרות זמינות</mat-option>
+				</ng-template>
+				<mat-error *ngIf="jobForm.get('roleId').errors?.['required']">
+					משרה הוא שדה חובה.
+				</mat-error>
+			</mat-select>
+		</mat-form-field>
+		<mat-form-field class="example-full-width" appearance="fill">
+			<mat-label>תאריך כניסה למשרה</mat-label>
+			<input matInput [matDatepicker]="picker1" formControlName="dateOfEntry" />
+			<mat-hint>MM/DD/YYYY</mat-hint>
+			<mat-datepicker-toggle matIconSuffix [for]="picker1">
+				<mat-icon matDatepickerToggleIcon>keyboard_arrow_down</mat-icon>
+			</mat-datepicker-toggle>
+			<mat-datepicker #picker1></mat-datepicker>
+			<mat-error *ngIf="jobForm.get('dateOfEntry').errors?.['required']">
+				תאריך כניסה למשרה הוא שדה חובה.
+			</mat-error>
+			<mat-error
+				*ngIf="
+					employee &&
+					jobForm.get('dateOfEntry')?.invalid &&
+					jobForm.get('dateOfEntry')?.touched
+				"
+			>
+				תאריך הכניסה חייב להיות אחרי תאריך הכניסה לעבודה ({{
+					employee.startOfWorkDate | date: 'dd/MM/yyyy'
+				}}).
+			</mat-error>
+		</mat-form-field>
+
+		<mat-form-field appearance="fill">
+			<mat-label>האם המשרה ניהולית</mat-label>
+			<mat-select formControlName="isAdmin">
+				<mat-option [value]="true">כן</mat-option>
+				<mat-option [value]="false">לא</mat-option>
+			</mat-select>
+			<mat-error *ngIf="jobForm.get('isAdmin').errors?.['required']">
+				האם המשרה ניהולית הוא שדה חובה.
+			</mat-error>
+		</mat-form-field>
+	</div>
+		<button mat-raised-button class="save-button" type="submit">שמור</button>
+	</form>
+	<button
+		mat-icon-button
+		class="back-button"
+		(click)="closeDialog()"
+		aria-label="Close dialog"
+	>
+		<mat-icon>arrow_back</mat-icon>
+	</button>
+</div>
