@@ -2063,23 +2063,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\The user\\.nuget\\packages\\": {},
+    "C:\\Users\\hitmachut\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\ProjectServer.Data.csproj",
+      "projectUniqueName": "Y:\\Groups\\Group_3\\קובר  שרה\\פרקטיקום\\EmployeesManagementApp\\ProjectServer\\ProjectServer.Data\\ProjectServer.Data.csproj",
       "projectName": "ProjectServer.Data",
-      "projectPath": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\ProjectServer.Data.csproj",
-      "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Data\\obj\\",
+      "projectPath": "Y:\\Groups\\Group_3\\קובר  שרה\\פרקטיקום\\EmployeesManagementApp\\ProjectServer\\ProjectServer.Data\\ProjectServer.Data.csproj",
+      "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
+      "outputPath": "Y:\\Groups\\Group_3\\קובר  שרה\\פרקטיקום\\EmployeesManagementApp\\ProjectServer\\ProjectServer.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\The user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2095,8 +2095,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\ProjectServer.Core.csproj": {
-              "projectPath": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Core\\ProjectServer.Core.csproj"
+            "Y:\\Groups\\Group_3\\קובר  שרה\\פרקטיקום\\EmployeesManagementApp\\ProjectServer\\ProjectServer.Core\\ProjectServer.Core.csproj": {
+              "projectPath": "Y:\\Groups\\Group_3\\קובר  שרה\\פרקטיקום\\EmployeesManagementApp\\ProjectServer\\ProjectServer.Core\\ProjectServer.Core.csproj"
             }
           }
         }
@@ -2105,11 +2105,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2133,7 +2128,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -2142,7 +2138,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.321\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

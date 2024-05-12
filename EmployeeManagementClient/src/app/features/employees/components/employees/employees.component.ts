@@ -22,7 +22,6 @@ export class EmployeesComponent implements  OnInit {
 	filteredEmployees: Employee[] = []; 
 showLoader=false;
 	constructor(
-	
 		private router: Router,
 		private _liveAnnouncer: LiveAnnouncer,
 		private employeesService: EmployeesService,

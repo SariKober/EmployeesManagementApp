@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xo1RIfywws+HKNF2XXV2ShRWc8XT8sA6BSZP9mCpNhTN2/fFa7j26b6eZCgxaVhecAuIIpmKXZ5w6XOw1ZXDVQ==",
+  "dgSpecHash": "sOM0kKuOh1FDrzLESB2MaiIUGJGkvaHbrHCdAnqm5l1Sv/bYA8URG/r/r4hyFlzeMig+TZi6r8LDl5r58GVuug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\The user\\Desktop\\Workers ManagementApp\\ProjectServer\\ProjectServer.Service\\ProjectServer.Service.csproj",
+  "projectFilePath": "Y:\\Groups\\Group_3\\קובר  שרה\\פרקטיקום\\EmployeesManagementApp\\ProjectServer\\ProjectServer.Service\\ProjectServer.Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\The user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\The user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\hitmachut\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

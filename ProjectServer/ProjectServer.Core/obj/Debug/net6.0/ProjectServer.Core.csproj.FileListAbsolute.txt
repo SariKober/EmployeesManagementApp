@@ -22,3 +22,15 @@ C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Core
 C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\refint\ProjectServer.Core.dll
 C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\ProjectServer.Core.pdb
 C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\ref\ProjectServer.Core.dll
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\bin\Debug\net6.0\ProjectServer.Core.deps.json
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\bin\Debug\net6.0\ProjectServer.Core.dll
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\bin\Debug\net6.0\ProjectServer.Core.pdb
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\ProjectServer.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\ProjectServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\ProjectServer.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\ProjectServer.Core.AssemblyInfo.cs
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\ProjectServer.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\ProjectServer.Core.dll
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\refint\ProjectServer.Core.dll
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\ProjectServer.Core.pdb
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Core\obj\Debug\net6.0\ref\ProjectServer.Core.dll

@@ -32,3 +32,20 @@ C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data
 C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.pdb
 C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.genruntimeconfig.cache
 C:\Users\The user\Desktop\Workers ManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ref\ProjectServer.Data.dll
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.deps.json
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.runtimeconfig.json
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.dll
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Data.pdb
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Core.dll
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\bin\Debug\net6.0\ProjectServer.Core.pdb
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.AssemblyInfo.cs
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.csproj.CopyComplete
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.dll
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\refint\ProjectServer.Data.dll
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.pdb
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ProjectServer.Data.genruntimeconfig.cache
+Y:\Groups\Group_3\קובר  שרה\פרקטיקום\EmployeesManagementApp\ProjectServer\ProjectServer.Data\obj\Debug\net6.0\ref\ProjectServer.Data.dll
