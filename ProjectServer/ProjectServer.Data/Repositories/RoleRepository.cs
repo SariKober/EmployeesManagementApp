@@ -47,13 +47,7 @@ namespace ProjectServer.Data.Repositories
             await _dataContext.SaveChangesAsync();
             return role;
         }
-        public async Task<Role> UpdateAsync(Role role)
-        {
-            var existRole = await GetByIdAsync(role.Id);
-            _dataContext.Entry(existRole).CurrentValues.SetValues(role);
-            await _dataContext.SaveChangesAsync();
-            return existRole;
-        }
+      
         public async Task DeleteAsync(int roleId)
         {
             var role = await GetByIdAsync(roleId);

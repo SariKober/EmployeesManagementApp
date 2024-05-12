@@ -17,7 +17,6 @@ namespace ProjectServer.Core.Services
 
         Task<Role> AddAsync(Role role);
 
-        Task<Role> UpdateAsync(Role role);
 
         Task DeleteAsync(int roleId);
     }

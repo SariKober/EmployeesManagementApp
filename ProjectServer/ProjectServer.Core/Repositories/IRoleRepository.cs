@@ -13,7 +13,6 @@ namespace ProjectServer.Core.Repositories
         Task<IEnumerable<Role>> GetRolesNotAssignedToEmployeeAsync(int employeeId);
         Task<Role> GetByIdAsync(int roleId);
         Task<Role> AddAsync(Role role);
-        Task<Role> UpdateAsync(Role role);
         Task DeleteAsync(int roleId);
     }
 }

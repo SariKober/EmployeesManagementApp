@@ -19,6 +19,15 @@ namespace ProjectServer.Service
 
         public async Task<Employee> AddAsync(Employee employee)
         {
+            var existingEmployees = await _employeeRepository.GetAllAsync();
+            if (!employee.Id.All(char.IsDigit) ||
+                existingEmployees.Any(x => x.Id == employee.Id && x.Status ||
+                18 > (DateTime.Today.Year - employee.DateOfBirth.Year) ||
+                employee.DateOfBirth > employee.StartOfWorkDate))
+            {
+                return null;
+            }
+
             return await _employeeRepository.AddAsync(employee);
         }
 

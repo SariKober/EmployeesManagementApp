@@ -19,6 +19,11 @@ namespace ProjectServer.Service
 
         public async Task<Role> AddAsync(Role role)
         {
+            var existingRoles = await _roleRepository.GetAllAsync();
+            if (existingRoles.Any(x => x.Id == role.Id || x.Name == role.Name))
+            {
+                return null;
+            }
             return await _roleRepository.AddAsync(role);
         }
 
@@ -41,10 +46,7 @@ namespace ProjectServer.Service
             return await _roleRepository.GetByIdAsync(roleId);
         }
 
-        public async Task<Role> UpdateAsync(Role role)
-        {
-            return await _roleRepository.UpdateAsync(role);
-        }
+        
 
     }
 }

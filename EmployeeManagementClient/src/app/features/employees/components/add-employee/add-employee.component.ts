@@ -59,7 +59,9 @@ export class AddEmployeeComponent implements OnInit {
 			this.employeesService.addEmployee(newEmployee).subscribe(
 				() => {
 					this.dialogRef.close();
+					location.reload();
 				},
+				
 				(error) => this.dialogRef.close(),
 			);
 		}

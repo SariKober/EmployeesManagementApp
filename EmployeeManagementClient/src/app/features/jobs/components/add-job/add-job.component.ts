@@ -34,6 +34,7 @@ export class AddJobComponent {
 
 			this.jobService.addJob(jobData).subscribe(() => {
 				this.dialog.closeAll();
+				location.reload();
 				this.router.navigate(['/jobs/all-jobs']);
 			});
 		}

@@ -44,22 +44,7 @@ namespace ProjectServer.API.Controllers
             var newRole = await _roleService.AddAsync(_mapper.Map<Role>(model));
             return Ok(_mapper.Map<RoleDto>(newRole));
         }
-
-        // PUT api/<RoleController>/5
-        [HttpPut("{id}")]
-        public async Task<ActionResult> Put(int id, [FromBody] RolePostModel model)
-        {
-            var role = await _roleService.GetByIdAsync(id);
-            if (role is null)
-            {
-                return NotFound();
-            }
-            _mapper.Map(model, role);
-            await _roleService.UpdateAsync(role);
-            role = await _roleService.GetByIdAsync(id);
-            return Ok(_mapper.Map<RoleDto>(role));
-        }
-
+     
         // DELETE api/<RoleController>/5
         [HttpDelete("{id}")]
         public async Task<ActionResult> Delete(int id)

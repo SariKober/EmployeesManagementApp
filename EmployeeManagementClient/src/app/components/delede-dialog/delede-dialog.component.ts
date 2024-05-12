@@ -30,5 +30,6 @@ export class DeledeDialogComponent {
 	) {}
 	onOkClick(): void {
 		this.dialogRef.close(true);
+		location.reload();
 	}
 }
