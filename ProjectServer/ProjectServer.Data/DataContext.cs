@@ -25,7 +25,8 @@ namespace ProjectServer.Data
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(this._configuration.GetConnectionString("workersDB"));
+            optionsBuilder.UseSqlServer(this._configuration.GetConnectionString("cloudDB"));
+            //optionsBuilder.UseSqlServer(this._configuration.GetConnectionString("workersDB"));
             optionsBuilder.LogTo((message) => Debug.Write(message));
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
